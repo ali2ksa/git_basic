@@ -9,3 +9,5 @@ def sum(x,y):
 
 
 
+def mul(x,y):
+    print(x*y)
